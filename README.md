@@ -12,16 +12,16 @@ Cada unidade do seu ativo nativo carrega um histórico verificável.
 Cada transação se conecta a um contexto: **quem enviou, por que enviou, para onde foi, e com qual padrão**.
 
 Em um cenário onde contas laranja, auto financiamento, triangulação e estruturas de lavagem se reinventam a cada dia, a Sentry surge como resposta.
-**Não apenas para registrar — mas para prevenir.**
+**Não apenas para registrar mas para prevenir.**
 
 ---
 
 ## 💰 Ativo Digital Nativo: `Sigil`
 
-A moeda do ecossistema Sentry é o **Sigil** um ativo rastreável, estruturado para registrar comportamento e facilitar análise de risco.
+A moeda do ecossistema Sentry é o **Sigil**, um ativo rastreável, estruturado para registrar comportamento e facilitar análise de risco.
 Cada `Sigil` movimentado carrega informações ligadas a regras de risco, padrão comportamental e rastreabilidade completa por hash.
 
-> "Com Sigil, o valor não está só na moeda — está na trilha que ela deixa."
+> "Com Sigil, o valor não está só na moeda, está na trilha que ela deixa."
 
 ---
 
@@ -63,4 +63,4 @@ README.md
 ## 🚧 Status
 
 Projeto em fase inicial de estruturação.
-⚠️ Foco atual: geração de bases simuladas + definição das 10 regras iniciais de risco.
+Foco atual: geração de bases simuladas + definição das 10 regras iniciais de risco.
