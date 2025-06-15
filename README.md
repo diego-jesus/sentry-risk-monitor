@@ -2,7 +2,7 @@
 
 **Vigilância Inteligente. Risco sob controle.**
 
-No ecossistema financeiro moderno, confiança não é um sentimento — é uma estrutura.
+No ecossistema financeiro moderno, confiança não é um sentimento é uma estrutura.
 A **Sentry** nasce como um sistema eletrônico orientado à **prevenção, rastreabilidade e transparência**, pensado desde a base para mapear, registrar e antecipar movimentos de risco.
 
 Não é só uma estrutura.
@@ -18,7 +18,7 @@ Em um cenário onde contas laranja, auto financiamento, triangulação e estrutu
 
 ## 💰 Ativo Digital Nativo: `Sigil`
 
-A moeda do ecossistema Sentry é o **Sigil** — um ativo rastreável, estruturado para registrar comportamento e facilitar análise de risco.
+A moeda do ecossistema Sentry é o **Sigil** um ativo rastreável, estruturado para registrar comportamento e facilitar análise de risco.
 Cada `Sigil` movimentado carrega informações ligadas a regras de risco, padrão comportamental e rastreabilidade completa por hash.
 
 > "Com Sigil, o valor não está só na moeda — está na trilha que ela deixa."
